@@ -1,0 +1,42 @@
+body{
+    padding-bottom: 10vw ;
+}
+
+.jumbotron {
+    margin: 2vw;
+    padding: 1vw;
+}
+
+.lead {
+    padding-bottom: 1vw;
+}
+
+.form-group {
+    font-size: 1em;
+    width: 30vw;
+    margin-top: 0vw;
+    margin-right: 0vw;
+    margin-left: 0vw;
+    margin-bottom: 0vw;
+}
+
+.btn {
+    margin-left: -15px;
+}
+
+.success-content {
+    border: 0.01rem solid lawngreen;
+    background-color: white;
+}
+
+.error {
+    border: 0.05rem solid orangered;
+}
+
+span {
+    color: green;
+}
+
+#message {
+    height: 5vw;
+}
